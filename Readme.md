@@ -15,9 +15,17 @@ by @anadayloft for #LoveJam2021
 
 - Try to get a big score!
 
-## My highscores to beat
+## Some of my highscores, so you can beat them too
 
-- 
+- 60 Chocolate Box: 63496
+
+- 32 Chocolate Box: 22320
+
+- 24 Chocolate Box: 13410
+
+- 16 Chocolate Box: 5219
+
+- 8 Chocolate Box: 463
 
 ## Tips
 
